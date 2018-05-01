@@ -1,0 +1,7 @@
+@if $foo {
+  @include fooBar {
+    body {
+      font-size: 100px;
+    }
+  }
+}

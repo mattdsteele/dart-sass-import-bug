@@ -1,0 +1,16 @@
+{
+  "name": "sass-import-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.0",
+    "sass": "^1.3.0"
+  }
+}
